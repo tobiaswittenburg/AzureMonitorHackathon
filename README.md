@@ -26,7 +26,7 @@ Microsoft [Clarity](http://clarity.microsoft.com)
 * Check the data in Clarity
 
 ## Scenario 2: Monitor web applications
-Documentation [Azure Monitor](http://clarity.microsoft.com](https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
+Documentation [Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/overview)
 * Create a web application in the technology of your choice (e.g. .NET ASP.NET Application, SpringBoot, Node.js, etc.)
 * Make this Application cause errors
 * Create a Web App on Azure with Application Insights
