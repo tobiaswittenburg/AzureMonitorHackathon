@@ -35,3 +35,11 @@ Documentation [Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-moni
 * Create an Azure Load Test for this Application 
 * Drink a coffee / tee / drink of your choice (takes some time until the data is available)
 * Check the Monitoring Tools again
+
+Bonus Section
+* Create a second web application that gets called by the first one.
+* See the data flow in Azure Monitor between the two.
+* Build a dashboard for your metrics
+* Check KQL queries
+* Pin your KQL query to a dashboard
+* Add a database and implement monitoring for that database
